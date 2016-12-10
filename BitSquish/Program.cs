@@ -6,6 +6,7 @@ namespace BitSquish
 	{
 		public static void Main (string[] args)
 		{
+			
 			BinaryIO.Input input = new BinaryIO.Input ("testfile.txt");
 
 			Console.WriteLine (input.BinaryString);
@@ -13,7 +14,15 @@ namespace BitSquish
 
 			RepeatOptimization ro = new RepeatOptimization ();
 
-			string optimized = ro.Optimize (input.BinaryString);
+			ChunkOptimization co = new ChunkOptimization (5, 3);
+
+			string optimized = co.Optimize ("11011010101010");
+
+
+
+			Console.WriteLine (
+				optimized
+			);
 		}
 	}
 }

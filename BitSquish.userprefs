@@ -1,35 +1,16 @@
 ﻿<Properties StartupItem="BitSquish/BitSquish.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BitSquish/BinaryIO.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BitSquish/Optimizations/ChunkOptimization.cs">
     <Files>
-      <File FileName="BitSquish/Program.cs" Line="10" Column="43" />
-      <File FileName="BitSquish/BinaryIO.cs" Line="44" Column="34" />
-      <File FileName="BitSquish/Optimization.cs" Line="29" Column="55" />
-      <File FileName="BitSquish/Optimizations/ChunkOptimization.cs" Line="4" Column="3" />
-      <File FileName="BitSquish/Util.cs" Line="11" Column="3" />
+      <File FileName="BitSquish/Program.cs" Line="19" Column="54" />
+      <File FileName="BitSquish/BinaryIO.cs" Line="1" Column="1" />
+      <File FileName="BitSquish/Optimization.cs" Line="1" Column="1" />
+      <File FileName="BitSquish/Optimizations/ChunkOptimization.cs" Line="113" Column="104" />
+      <File FileName="BitSquish/Util.cs" Line="1" Column="1" />
       <File FileName="BitSquish/Optimizations/RepeatOptimization.cs" Line="48" Column="21" />
-      <File FileName="BitSquish/Test/Test.cs" Line="11" Column="4" />
-      <File FileName="BitSquish/Test/testfile.txt" Line="2" Column="111" />
+      <File FileName="BitSquish/Test/Test.cs" Line="1" Column="1" />
+      <File FileName="BitSquish/Test/testfile.txt" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="BitSquish" expanded="True">
-            <Node name="BitSquish" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Optimizations" expanded="True" />
-              <Node name="Test" expanded="True" />
-              <Node name="BinaryIO.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State name="__root__">
-          <Node name="BitSquish" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
