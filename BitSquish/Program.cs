@@ -6,7 +6,14 @@ namespace BitSquish
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+			BinaryIO.Input input = new BinaryIO.Input ("testfile.txt");
+
+			Console.WriteLine (input.BinaryString);
+			Console.WriteLine ();
+
+			RepeatOptimization ro = new RepeatOptimization ();
+
+			string optimized = ro.Optimize (input.BinaryString);
 		}
 	}
 }

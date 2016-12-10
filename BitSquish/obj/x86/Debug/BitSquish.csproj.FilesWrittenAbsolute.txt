@@ -1,0 +1,6 @@
+/home/nate/Code/BitSquish/BitSquish/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nate/Code/BitSquish/BitSquish/bin/Debug/nunit.framework.dll
+/home/nate/Code/BitSquish/BitSquish/bin/Debug/BitSquish.exe.mdb
+/home/nate/Code/BitSquish/BitSquish/bin/Debug/BitSquish.exe
+/home/nate/Code/BitSquish/BitSquish/obj/x86/Debug/BitSquish.exe
+/home/nate/Code/BitSquish/BitSquish/obj/x86/Debug/BitSquish.exe.mdb

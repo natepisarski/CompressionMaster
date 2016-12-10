@@ -1,0 +1,2 @@
+﻿Here is some text being placed into a file for testing.
+This will be read into the program as binary, so we shouldn't be seeing anything remotely close to ASCII in it
